@@ -8,5 +8,4 @@ https://github.com/anminhhung/small_dog_cat_dataset
 
 2) ACCURACY = 0.69
 
-3) DEPLOY MODEL GRADIO PYTHON
-Click the URL link again to upload a new photo
+3) DEPLOY MODEL GRADIO PYTHON: Click the URL link again to upload a new photo

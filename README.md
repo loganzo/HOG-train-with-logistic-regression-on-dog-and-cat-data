@@ -8,4 +8,4 @@ https://github.com/anminhhung/small_dog_cat_dataset
 
 ACCURACY = 0.69
 
-Run again when uploading new photos
+Click the URL link again to upload a new photo
